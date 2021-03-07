@@ -7,7 +7,6 @@ typedef pair<int, int> pii;
 #define GCD(x, y) __gcd(x, y)
 #define LCM(x, y) (x * y) / __gcd(x, y)
 
-
 int32_t main() {
 #ifndef ONLINE_JUDGE
     freopen("input.txt", "r", stdin);
