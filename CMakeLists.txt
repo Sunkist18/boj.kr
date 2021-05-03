@@ -3,4 +3,4 @@ project(boj_kr)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(boj_kr test.cpp)
+add_executable(boj_kr 16964.cpp)
